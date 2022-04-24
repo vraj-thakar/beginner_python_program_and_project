@@ -65,6 +65,7 @@ if __name__ == '__main__':
 
 
                 if user_choise not in lst:
+                    t-=1
                     print("you select wrong item.. try again")
                     continue
                 else:
